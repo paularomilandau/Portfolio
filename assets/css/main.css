@@ -3617,6 +3617,7 @@ body.landing #header {
 }
 
 #banner .content .image {
+  border-radius: 100%;
   display: inline-block;
   height: 18em;
   margin-left: 3em;
