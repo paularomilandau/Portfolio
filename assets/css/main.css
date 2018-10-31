@@ -4222,3 +4222,7 @@ body.is-touch #banner {
 #one {
   height: 100vh;
 }
+
+#one > .content {
+  padding-top: 2rem;
+}
